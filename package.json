@@ -1,0 +1,21 @@
+{
+  "name": "hyperterm-ir-black",
+  "version": "1.0.0",
+  "description": "Hyperterm theme based on the IR_Black theme by Todd Werth",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wingrunr21/hyperterm-ir-black.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "ir_black"
+  ],
+  "author": "Stafford Brunk <stafford.brunk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wingrunr21/hyperterm-ir-black/issues"
+  },
+  "homepage": "https://github.com/wingrunr21/hyperterm-ir-black#readme"
+}
